@@ -1,0 +1,9 @@
+engines:
+  rubocop:
+    enabled: true
+    channel: rubocop-0-81
+ratings:
+  paths:
+  - "**.rb"
+exclude_paths:
+- spec/
